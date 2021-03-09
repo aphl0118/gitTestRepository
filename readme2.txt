@@ -1,2 +1,2 @@
 windows:
-settings  git config --global core.autocrlf true
+settings  git config --global core.autocrlf false
